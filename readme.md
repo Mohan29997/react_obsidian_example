@@ -1,7 +1,7 @@
- - ```sh 
+```sh 
 yarn 
 ```
-- ```sh
+```sh
  npx lerna bootstrap
 ```
 ```sh 
